@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33432
     wikipedia: http://en.wikipedia.org/wiki/James_Mudge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28591#Poems-with-Power-to-Strengthen-the-Soul
 gutenberg_issued: '2009-04-22'
 gutenberg_type: Text
 identifiers:
