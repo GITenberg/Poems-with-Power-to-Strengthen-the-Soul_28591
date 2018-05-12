@@ -1,0 +1,27 @@
+_repo: Poems-with-Power-to-Strengthen-the-Soul_28591
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Mudge, James
+    birthdate: 1844
+    deathdate: 1918
+    gutenberg_agent_id: '33432'
+    url: http://www.gutenberg.org/2009/agents/33432
+    wikipedia: http://en.wikipedia.org/wiki/James_Mudge
+description: ''
+gutenberg_issued: '2009-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28591'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+title: Poems with Power to Strengthen the Soul
+url: http://www.gutenberg.org/ebooks/28591
